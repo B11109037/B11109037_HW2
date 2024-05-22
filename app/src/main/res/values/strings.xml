@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">B11109037_HW2</string>
+    <string name="scenery1"> 淡水漁人碼頭 </string>
+    <string name="scenery2">中正紀念堂</string>
+    <string name="scenery3">高美濕地</string>
+    <string name="scenery4">后豐鐵馬道</string>
+    <string name="scenery5">漁光島</string>
+    <string name="scenery6">審計新村</string>
+    <string name="scenery7">擎天崗</string>
+    <string name="scenery8">星夢森林劇場</string>
+    <string name="scenery9">羅東夜市</string>
+    <string name="scenery10">霞海城隍廟</string>
+
+    <string name="scenery1_description">新北市府近期開發成多功能的休閒漁港，擁有美輪美奐的浮動碼頭及寬廣的港區公園，另外並有跨越港區專供行人觀景的船形景觀大橋。</string>
+    <string name="scenery2_description">中正紀念堂是位於中華民國臺北市中正區的國家紀念建築，是中華民國政府為紀念已故前總統蔣中正而興建</string>
+    <string name="scenery3_description">高美濕地位於清水大甲溪出海口南側，曾在高美濕地棲息的鳥類有多達120餘種，為重要之生態保育區</string>
+    <string name="scenery4_description">后豐鐵馬道全長5.8公里，由原臺鐵舊山線整建。沿途景觀多樣化，除了横跨大甲溪溪谷的花梁鋼橋，還有特殊的「9號隧道」騎車體驗</string>
+    <string name="scenery5_description">漁光島是座緊鄰安平漁港的小島，面積約有400公頃左右，島的外側港灣有「月亮灣」之稱，是許多民眾在此踏浪賞夕陽、新人拍攝婚紗的好去處。</string>
+    <string name="scenery6_description">為青年創業基地，透過青年活力與創造力，激盪出令人目不暇給的空間韻味與獨特氛圍。</string>
+    <string name="scenery7_description">擎天崗草原位於魚路古道最高點，擎天崗環形步道全長約2.4K，繞一圈回來大約1H就可以走完。除了欣賞擎天崗大草原景致，還有許多碉堡遺跡，運氣好可以遇到水牛群。</string>
+    <string name="scenery8_description">在宜蘭冬山鄉的星夢森林劇場真的好好玩被旅人稱之為”宜蘭最美的動物親子樂園” 佔地寬敞、佈景童趣</string>
+    <string name="scenery9_description">羅東夜市的主要範圍在中山公園周邊道路，每天都有營業，不用怕撲空。晚上夜市裡聚集了許多宜蘭的必吃羅東夜市小吃、特色美食。</string>
+    <string name="scenery10_description">位於迪化街一段的霞海城隍廟，雖沒有巍峨之廟貌，然其信仰圈極廣、香火鼎盛，每逢迎神賽會總是熱鬧非凡。</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
